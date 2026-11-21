@@ -1,9 +1,0 @@
-Department,Total_Appointments,Appts_Per_Doctor,Avg_Wait_Min,NoShow_Pct,Avg_Fee,Estimated_Total_Fee,Wait_Rank,NoShow_Rank,Load_Rank,Bottleneck_Score
-General Medicine,460,115.0,43.9,22.83,559.4,185175,2.0,2.0,1.0,5.0
-Orthopedics,267,66.8,39.17,19.48,883.9,180850,3.0,3.0,2.0,8.0
-Cardiology,239,59.8,49.29,15.48,1317.99,252000,1.0,7.0,3.0,11.0
-Dermatology,224,56.0,24.03,28.57,771.21,114200,8.0,1.0,5.0,14.0
-Pediatrics,236,59.0,30.19,16.53,658.69,121300,6.0,6.0,4.0,16.0
-ENT,196,49.0,26.64,18.88,718.22,100812,7.0,4.0,7.0,18.0
-Ophthalmology,180,45.0,31.89,18.33,832.22,113370,5.0,5.0,8.0,18.0
-Gynecology,198,49.5,35.64,13.64,989.65,163000,4.0,8.0,6.0,18.0
