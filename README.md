@@ -89,15 +89,6 @@ _Run `main.py`, then fill this table from `outputs/analysis_report.txt`._
 | IQR upper limit and number of outliers | |
 | Estimated fees (attended only) | |
 
-## Recommendations
-
-_Write five recommendations in your own words, based on your results._
-
-1.
-2.
-3.
-4.
-5.
 
 ## Limitations
 
